@@ -1,2 +1,2 @@
 # MythTVhb
-Adding HB to linuxserver MythTV docker
+Adding HB to Sparklys MythTV docker
